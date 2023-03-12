@@ -1,0 +1,30 @@
+h1 {
+  color: crimson;
+  font-size: 80px;
+  text-align: center;
+  background-color: rgb(245, 238, 180);
+  text-shadow: 4px 4px rgb(219, 127, 142) (255, 0, 85);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(10px 10px 10px black);
+}
+h3 {
+  color: goldenrod;
+  font-size: 80px;
+  text-align: center;
+  background-color: paleturquoise;
+  text-shadow: 4px 4px rgb(219, 127, 142) (255, 0, 85);
+}
+
+}
+
+h5 {
+  color: whitesmoke;
+  font-size: 80px;
+  text-align: center;
+  background-color: rgb(13, 13, 218);
+  text-shadow: 6px 6px rgb(3, 94, 155) (255, 0, 85);
+}
