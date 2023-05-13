@@ -1,23 +1,33 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(241, 238, 185);
 }
 h1 {
   text-align: center;
   font-size: 80px;
   font-family: cursive;
-  color: rgb(24, 159, 238);
+  color: rgb(158, 123, 48);
 }
 h2 {
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
+  font-family: cursive;
+  color: rgb(158, 123, 48);
 }
 p {
-  text-align: center;
-  font-size: 50px;
+  text-align: auto;
+  font-size: 20px;
+  font-family: cursive;
+  color: rgb(0, 0, 0);
 }
-#nadis {
+#leop {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  filter: drop-shadow(10px 10px 10px rgb(83, 172, 224));
+  filter: drop-shadow(10px 10px 10px rgb(158, 123, 48));
+}
+#pardo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(10px 10px 10px rgb(158, 123, 48));
 }
